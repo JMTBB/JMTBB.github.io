@@ -4,7 +4,7 @@ title:	THE FIRST FILE
 subtitle:	Just a test
 date:	2019-01-19
 another:	LaiJM
-catlog:	false
+catlog:	ture
 tags:	
 	- test
 ---
