@@ -7,7 +7,7 @@ author:		LaiJM
 head-img:	img/spider.jpg
 catalog:	true
 tag:		
-    -Tips
+    - Tips
 ---
 
 ##Linux安装Jekyll
