@@ -4,7 +4,7 @@ title:		The sources of ruby gem
 subtitle:	源
 date:		2019-1-20
 author:		LaiJM
-header-img:	img/spider2.jpg
+header-img:	img/spider3.jpg
 catalog:	true
 tag:		
     - Tips
