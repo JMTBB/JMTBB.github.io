@@ -28,10 +28,10 @@ tag:
 
 安装完后可以更改为国内源以获得更快的速度。
 
-一开始找到的网站是[淘宝源](https://ruby.taobao.org/).
+一开始找到的网站是[淘宝源](https://ruby.taobao.org/ "https://ruby.taobao.org").
 
 发现其已经废弃
 
-后查找得[另一个国内源](https://gems.ruby-china.org/)也报错。
+后查找得[另一个国内源](https://gems.ruby-china.org/ "https://gems.ruby-china.org/")也报错。
 
-打开此域名发现其[更换后地址](https:gems.ruby-china.com/)
+打开此域名发现其[更换后地址](https:gems.ruby-china.com/ "https:gems.ruby-china.com/")
