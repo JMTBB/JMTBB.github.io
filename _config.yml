@@ -1,7 +1,7 @@
 # Site settings
 title: LaiJM BLOG
 SEOTitle: 明的博客 | LaiJM Blog
-header-img: img/spider3.jpg
+header-img: img/head-spider.jpg
 email: 2536226456@qq.com
 description: "Every failure is leading towards success."
 keyword: "LaiJM"
@@ -99,11 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Github",
+        href: "https://github.com/JMTBB/JMTBB.github.io"
     },{
         title: "Apple",
         href: "https://apple.com"
