@@ -1,6 +1,6 @@
 ---
 layout:		post
-title:		The sources of ruby gem
+title:		Ruby gem的源
 subtitle:	源
 date:		2019-1-20
 author:		LaiJM
@@ -35,3 +35,5 @@ tag:
 后查找得[另一个国内源](https://gems.ruby-china.org/ "https://gems.ruby-china.org/")也报错。
 
 打开此域名发现其[更换后地址](https:gems.ruby-china.com/ "https:gems.ruby-china.com/")
+
+[**Ubuntu安装及更新Jekyll教程**](https://www.seohzz.com/host-config/ubuntu-install-update-jekyll.html)
