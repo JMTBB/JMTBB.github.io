@@ -600,14 +600,23 @@ pre code {
 
 @media only screen and (min-width:768px) {
     .intro-header .site-heading {
-        padding: 150px 0
+        padding: 150px 0;
     }
 }
 
 .intro-header .site-heading,
 .intro-header .page-heading {
-    text-align: center
+    text-align: center;
 }
+
+/*change by lai*/
+@media only screen and (min-width:768px) {
+    .intro-header .site-heading,
+    .intro-header .page-heading {
+    text-align: left;
+    }
+}
+
 
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
@@ -615,8 +624,15 @@ pre code {
     font-size: 50px
 }
 
+/*don't dispaly the subheading on the phone.--change by lai*/
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
+    display: none;
+}
+
+@media only screen and (min-width:768px) {
+    .intro-header .site-heading .subheading,
+    .intro-header .page-heading .subheading {
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
     line-height: 1.7;
     font-size: 18px;
@@ -625,6 +641,8 @@ pre code {
     font-weight: 300;
     margin: 10px 0 0
 }
+}
+
 
 @media only screen and (min-width:768px) {
 
