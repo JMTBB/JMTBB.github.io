@@ -28,12 +28,24 @@ tag:
 
 安装完后可以更改为国内源以获得更快的速度。
 
+**换源：**
+
+```
+#源列表
+gem sources -l
+#移除源
+gem sources --remove https://rubygems.org/
+#添加源
+gem sources -a https://gems.ruby-china.com/
+```
 一开始找到的网站是[淘宝源](https://ruby.taobao.org/ "https://ruby.taobao.org").
 
 发现其已经废弃
 
 后查找得[另一个国内源](https://gems.ruby-china.org/ "https://gems.ruby-china.org/")也报错。
 
-打开此域名发现其[更换后地址](https:gems.ruby-china.com/ "https:gems.ruby-china.com/")
+打开此域名发现其[更换后地址](https://gems.ruby-china.com/ "https://gems.ruby-china.com/")
+
+
 
 [**Ubuntu安装及更新Jekyll教程**](https://www.seohzz.com/host-config/ubuntu-install-update-jekyll.html)
