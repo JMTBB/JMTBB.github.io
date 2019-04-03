@@ -36,7 +36,9 @@ gem sources -l
 #移除源
 gem sources --remove https://rubygems.org/
 #添加源
-gem sources -a https://gems.ruby-china.com/
+gem sources --add https://gems.ruby-china.com/
+#刷新
+gem sources -u
 ```
 一开始找到的网站是[淘宝源](https://ruby.taobao.org/ "https://ruby.taobao.org").
 
